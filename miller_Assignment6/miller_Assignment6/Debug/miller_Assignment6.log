@@ -1,0 +1,6 @@
+﻿  Die.cpp
+C:\Users\nmiller\source\repos\miller_Assignment6\miller_Assignment6\Die.cpp(6,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  main.cpp
+  Generating Code...
+C:\Users\nmiller\source\repos\miller_Assignment6\miller_Assignment6\Die.cpp(18): error C4716: 'Die::roll': must return a value
