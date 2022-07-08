@@ -1,0 +1,5 @@
+﻿  Coin.cpp
+C:\Users\nmiller\source\repos\miller_Assignment7\miller_Assignment7\Coin.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  miller_Assignment7.vcxproj -> C:\Users\nmiller\source\repos\miller_Assignment7\Debug\miller_Assignment7.exe
