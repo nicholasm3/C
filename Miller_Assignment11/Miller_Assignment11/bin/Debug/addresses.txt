@@ -1,0 +1,32 @@
+Tom
+Swift
+27 Coolidge St
+Grafton
+WI
+53015
+252-756-8867
+tswift@gmail.com
+Harold
+LLoyd
+1423 Apple Way
+Mequon
+WI
+53010
+262-333-1254
+harold.lloyd@gmail.com
+Mary
+Kelly
+1818 Fairview Lane
+Milawukee
+WI
+53202
+414-997-7645
+mary@yahoo.com
+Frank
+Smith
+1522 Walnut Ave.
+Arlington Heights
+IL
+60004
+312-451-5544
+smith@aol.com

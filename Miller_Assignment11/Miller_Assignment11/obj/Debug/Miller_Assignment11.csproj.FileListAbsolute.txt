@@ -1,0 +1,10 @@
+C:\Users\nmiller\source\repos\Miller_Assignment11\Miller_Assignment11\obj\Debug\Miller_Assignment11.csproj.AssemblyReference.cache
+C:\Users\nmiller\source\repos\Miller_Assignment11\Miller_Assignment11\obj\Debug\Miller_Assignment11.Properties.Resources.resources
+C:\Users\nmiller\source\repos\Miller_Assignment11\Miller_Assignment11\obj\Debug\Miller_Assignment11.csproj.GenerateResource.cache
+C:\Users\nmiller\source\repos\Miller_Assignment11\Miller_Assignment11\obj\Debug\Miller_Assignment11.csproj.CoreCompileInputs.cache
+C:\Users\nmiller\source\repos\Miller_Assignment11\Miller_Assignment11\bin\Debug\Miller_Assignment11.exe.config
+C:\Users\nmiller\source\repos\Miller_Assignment11\Miller_Assignment11\bin\Debug\Miller_Assignment11.exe
+C:\Users\nmiller\source\repos\Miller_Assignment11\Miller_Assignment11\bin\Debug\Miller_Assignment11.pdb
+C:\Users\nmiller\source\repos\Miller_Assignment11\Miller_Assignment11\obj\Debug\Miller_Assignment11.exe
+C:\Users\nmiller\source\repos\Miller_Assignment11\Miller_Assignment11\obj\Debug\Miller_Assignment11.pdb
+C:\Users\nmiller\source\repos\Miller_Assignment11\Miller_Assignment11\obj\Debug\Miller_Assignment11.Form1.resources

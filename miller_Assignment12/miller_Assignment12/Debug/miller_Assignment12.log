@@ -1,0 +1,5 @@
+﻿  Account.cpp
+  main.cpp
+C:\Users\nmiller\source\repos\miller_Assignment12\miller_Assignment12\main.cpp(37,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  miller_Assignment12.vcxproj -> C:\Users\nmiller\source\repos\miller_Assignment12\Debug\miller_Assignment12.exe
