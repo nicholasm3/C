@@ -1,0 +1,7 @@
+C:\Users\nmiller\source\repos\Miller_MidTerm\Miller_MidTerm\obj\Debug\Miller_MidTerm.csproj.AssemblyReference.cache
+C:\Users\nmiller\source\repos\Miller_MidTerm\Miller_MidTerm\obj\Debug\Miller_MidTerm.csproj.CoreCompileInputs.cache
+C:\Users\nmiller\source\repos\Miller_MidTerm\Miller_MidTerm\bin\Debug\Miller_MidTerm.exe.config
+C:\Users\nmiller\source\repos\Miller_MidTerm\Miller_MidTerm\bin\Debug\Miller_MidTerm.exe
+C:\Users\nmiller\source\repos\Miller_MidTerm\Miller_MidTerm\bin\Debug\Miller_MidTerm.pdb
+C:\Users\nmiller\source\repos\Miller_MidTerm\Miller_MidTerm\obj\Debug\Miller_MidTerm.exe
+C:\Users\nmiller\source\repos\Miller_MidTerm\Miller_MidTerm\obj\Debug\Miller_MidTerm.pdb
