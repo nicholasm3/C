@@ -1,0 +1,11 @@
+C:\Users\nmiller\source\repos\Miller_SportingEvent\Miller_SportingEvent\obj\Debug\Miller_SportingEvent.csproj.AssemblyReference.cache
+C:\Users\nmiller\source\repos\Miller_SportingEvent\Miller_SportingEvent\obj\Debug\Miller_SportingEvent.Properties.Resources.resources
+C:\Users\nmiller\source\repos\Miller_SportingEvent\Miller_SportingEvent\obj\Debug\Miller_SportingEvent.csproj.GenerateResource.cache
+C:\Users\nmiller\source\repos\Miller_SportingEvent\Miller_SportingEvent\obj\Debug\Miller_SportingEvent.csproj.CoreCompileInputs.cache
+C:\Users\nmiller\source\repos\Miller_SportingEvent\Miller_SportingEvent\bin\Debug\Miller_SportingEvent.exe.config
+C:\Users\nmiller\source\repos\Miller_SportingEvent\Miller_SportingEvent\bin\Debug\Miller_SportingEvent.exe
+C:\Users\nmiller\source\repos\Miller_SportingEvent\Miller_SportingEvent\bin\Debug\Miller_SportingEvent.pdb
+C:\Users\nmiller\source\repos\Miller_SportingEvent\Miller_SportingEvent\obj\Debug\Miller_SportingEvent.fRegister.resources
+C:\Users\nmiller\source\repos\Miller_SportingEvent\Miller_SportingEvent\obj\Debug\Miller_SportingEvent.exe
+C:\Users\nmiller\source\repos\Miller_SportingEvent\Miller_SportingEvent\obj\Debug\Miller_SportingEvent.pdb
+C:\Users\nmiller\source\repos\Miller_SportingEvent\Miller_SportingEvent\obj\Debug\Miller_SportingEvent.Registered.resources

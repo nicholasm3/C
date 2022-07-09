@@ -1,0 +1,7 @@
+C:\Users\nmiller\source\repos\Miller_StudentStudy\Miller_StudentStudy\obj\Debug\Miller_StudentStudy.csproj.AssemblyReference.cache
+C:\Users\nmiller\source\repos\Miller_StudentStudy\Miller_StudentStudy\obj\Debug\Miller_StudentStudy.csproj.CoreCompileInputs.cache
+C:\Users\nmiller\source\repos\Miller_StudentStudy\Miller_StudentStudy\bin\Debug\Miller_StudentStudy.exe.config
+C:\Users\nmiller\source\repos\Miller_StudentStudy\Miller_StudentStudy\bin\Debug\Miller_StudentStudy.exe
+C:\Users\nmiller\source\repos\Miller_StudentStudy\Miller_StudentStudy\bin\Debug\Miller_StudentStudy.pdb
+C:\Users\nmiller\source\repos\Miller_StudentStudy\Miller_StudentStudy\obj\Debug\Miller_StudentStudy.exe
+C:\Users\nmiller\source\repos\Miller_StudentStudy\Miller_StudentStudy\obj\Debug\Miller_StudentStudy.pdb
