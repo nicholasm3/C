@@ -1,0 +1,7 @@
+C:\Users\nmiller\source\repos\Miller_MagicPCApp\Miller_MagicPCApp\bin\Debug\Miller_MagicPCApp.exe.config
+C:\Users\nmiller\source\repos\Miller_MagicPCApp\Miller_MagicPCApp\bin\Debug\Miller_MagicPCApp.exe
+C:\Users\nmiller\source\repos\Miller_MagicPCApp\Miller_MagicPCApp\bin\Debug\Miller_MagicPCApp.pdb
+C:\Users\nmiller\source\repos\Miller_MagicPCApp\Miller_MagicPCApp\obj\Debug\Miller_MagicPCApp.csproj.AssemblyReference.cache
+C:\Users\nmiller\source\repos\Miller_MagicPCApp\Miller_MagicPCApp\obj\Debug\Miller_MagicPCApp.csproj.CoreCompileInputs.cache
+C:\Users\nmiller\source\repos\Miller_MagicPCApp\Miller_MagicPCApp\obj\Debug\Miller_MagicPCApp.exe
+C:\Users\nmiller\source\repos\Miller_MagicPCApp\Miller_MagicPCApp\obj\Debug\Miller_MagicPCApp.pdb

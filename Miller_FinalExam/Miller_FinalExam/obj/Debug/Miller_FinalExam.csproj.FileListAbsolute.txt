@@ -1,0 +1,7 @@
+C:\Users\nmiller\source\repos\Miller_FinalExam\Miller_FinalExam\obj\Debug\Miller_FinalExam.csproj.AssemblyReference.cache
+C:\Users\nmiller\source\repos\Miller_FinalExam\Miller_FinalExam\obj\Debug\Miller_FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\nmiller\source\repos\Miller_FinalExam\Miller_FinalExam\bin\Debug\Miller_FinalExam.exe.config
+C:\Users\nmiller\source\repos\Miller_FinalExam\Miller_FinalExam\bin\Debug\Miller_FinalExam.exe
+C:\Users\nmiller\source\repos\Miller_FinalExam\Miller_FinalExam\bin\Debug\Miller_FinalExam.pdb
+C:\Users\nmiller\source\repos\Miller_FinalExam\Miller_FinalExam\obj\Debug\Miller_FinalExam.exe
+C:\Users\nmiller\source\repos\Miller_FinalExam\Miller_FinalExam\obj\Debug\Miller_FinalExam.pdb
