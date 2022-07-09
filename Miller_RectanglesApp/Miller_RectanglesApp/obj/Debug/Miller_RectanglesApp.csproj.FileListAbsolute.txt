@@ -1,0 +1,7 @@
+C:\Users\nmiller\source\repos\Miller_RectanglesApp\Miller_RectanglesApp\bin\Debug\Miller_RectanglesApp.exe.config
+C:\Users\nmiller\source\repos\Miller_RectanglesApp\Miller_RectanglesApp\bin\Debug\Miller_RectanglesApp.exe
+C:\Users\nmiller\source\repos\Miller_RectanglesApp\Miller_RectanglesApp\bin\Debug\Miller_RectanglesApp.pdb
+C:\Users\nmiller\source\repos\Miller_RectanglesApp\Miller_RectanglesApp\obj\Debug\Miller_RectanglesApp.csproj.AssemblyReference.cache
+C:\Users\nmiller\source\repos\Miller_RectanglesApp\Miller_RectanglesApp\obj\Debug\Miller_RectanglesApp.csproj.CoreCompileInputs.cache
+C:\Users\nmiller\source\repos\Miller_RectanglesApp\Miller_RectanglesApp\obj\Debug\Miller_RectanglesApp.exe
+C:\Users\nmiller\source\repos\Miller_RectanglesApp\Miller_RectanglesApp\obj\Debug\Miller_RectanglesApp.pdb
