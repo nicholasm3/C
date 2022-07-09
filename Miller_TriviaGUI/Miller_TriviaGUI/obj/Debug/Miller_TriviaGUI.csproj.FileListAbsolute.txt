@@ -1,0 +1,10 @@
+C:\Users\nmiller\source\repos\Miller_TriviaGUI\Miller_TriviaGUI\bin\Debug\Miller_TriviaGUI.exe.config
+C:\Users\nmiller\source\repos\Miller_TriviaGUI\Miller_TriviaGUI\bin\Debug\Miller_TriviaGUI.exe
+C:\Users\nmiller\source\repos\Miller_TriviaGUI\Miller_TriviaGUI\bin\Debug\Miller_TriviaGUI.pdb
+C:\Users\nmiller\source\repos\Miller_TriviaGUI\Miller_TriviaGUI\obj\Debug\Miller_TriviaGUI.csproj.AssemblyReference.cache
+C:\Users\nmiller\source\repos\Miller_TriviaGUI\Miller_TriviaGUI\obj\Debug\Miller_TriviaGUI.Properties.Resources.resources
+C:\Users\nmiller\source\repos\Miller_TriviaGUI\Miller_TriviaGUI\obj\Debug\Miller_TriviaGUI.csproj.GenerateResource.cache
+C:\Users\nmiller\source\repos\Miller_TriviaGUI\Miller_TriviaGUI\obj\Debug\Miller_TriviaGUI.csproj.CoreCompileInputs.cache
+C:\Users\nmiller\source\repos\Miller_TriviaGUI\Miller_TriviaGUI\obj\Debug\Miller_TriviaGUI.exe
+C:\Users\nmiller\source\repos\Miller_TriviaGUI\Miller_TriviaGUI\obj\Debug\Miller_TriviaGUI.pdb
+C:\Users\nmiller\source\repos\Miller_TriviaGUI\Miller_TriviaGUI\obj\Debug\Miller_TriviaGUI.Form1.resources

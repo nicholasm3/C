@@ -1,0 +1,7 @@
+C:\Users\nmiller\source\repos\Miller_TriviaGame\Miller_TriviaGame\bin\Debug\Miller_TriviaGame.exe.config
+C:\Users\nmiller\source\repos\Miller_TriviaGame\Miller_TriviaGame\bin\Debug\Miller_TriviaGame.exe
+C:\Users\nmiller\source\repos\Miller_TriviaGame\Miller_TriviaGame\bin\Debug\Miller_TriviaGame.pdb
+C:\Users\nmiller\source\repos\Miller_TriviaGame\Miller_TriviaGame\obj\Debug\Miller_TriviaGame.csproj.AssemblyReference.cache
+C:\Users\nmiller\source\repos\Miller_TriviaGame\Miller_TriviaGame\obj\Debug\Miller_TriviaGame.csproj.CoreCompileInputs.cache
+C:\Users\nmiller\source\repos\Miller_TriviaGame\Miller_TriviaGame\obj\Debug\Miller_TriviaGame.exe
+C:\Users\nmiller\source\repos\Miller_TriviaGame\Miller_TriviaGame\obj\Debug\Miller_TriviaGame.pdb
