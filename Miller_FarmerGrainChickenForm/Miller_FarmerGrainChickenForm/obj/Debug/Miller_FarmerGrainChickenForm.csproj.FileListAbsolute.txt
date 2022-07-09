@@ -1,0 +1,10 @@
+C:\Users\nmiller\source\repos\Miller_FarmerGrainChickenForm\Miller_FarmerGrainChickenForm\bin\Debug\Miller_FarmerGrainChickenForm.exe.config
+C:\Users\nmiller\source\repos\Miller_FarmerGrainChickenForm\Miller_FarmerGrainChickenForm\bin\Debug\Miller_FarmerGrainChickenForm.exe
+C:\Users\nmiller\source\repos\Miller_FarmerGrainChickenForm\Miller_FarmerGrainChickenForm\bin\Debug\Miller_FarmerGrainChickenForm.pdb
+C:\Users\nmiller\source\repos\Miller_FarmerGrainChickenForm\Miller_FarmerGrainChickenForm\obj\Debug\Miller_FarmerGrainChickenForm.csproj.AssemblyReference.cache
+C:\Users\nmiller\source\repos\Miller_FarmerGrainChickenForm\Miller_FarmerGrainChickenForm\obj\Debug\Miller_FarmerGrainChickenForm.Form1.resources
+C:\Users\nmiller\source\repos\Miller_FarmerGrainChickenForm\Miller_FarmerGrainChickenForm\obj\Debug\Miller_FarmerGrainChickenForm.Properties.Resources.resources
+C:\Users\nmiller\source\repos\Miller_FarmerGrainChickenForm\Miller_FarmerGrainChickenForm\obj\Debug\Miller_FarmerGrainChickenForm.csproj.GenerateResource.cache
+C:\Users\nmiller\source\repos\Miller_FarmerGrainChickenForm\Miller_FarmerGrainChickenForm\obj\Debug\Miller_FarmerGrainChickenForm.csproj.CoreCompileInputs.cache
+C:\Users\nmiller\source\repos\Miller_FarmerGrainChickenForm\Miller_FarmerGrainChickenForm\obj\Debug\Miller_FarmerGrainChickenForm.exe
+C:\Users\nmiller\source\repos\Miller_FarmerGrainChickenForm\Miller_FarmerGrainChickenForm\obj\Debug\Miller_FarmerGrainChickenForm.pdb

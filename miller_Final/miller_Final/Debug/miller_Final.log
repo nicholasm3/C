@@ -1,0 +1,6 @@
+﻿  MeasuredProduct.cpp
+  main.cpp
+C:\Users\nmiller\source\repos\miller_Final\miller_Final\main.cpp(342,23): warning C4018: '<': signed/unsigned mismatch
+  Item.cpp
+  Generating Code...
+  miller_Final.vcxproj -> C:\Users\nmiller\source\repos\miller_Final\Debug\miller_Final.exe
