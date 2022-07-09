@@ -1,0 +1,7 @@
+C:\Users\nmiller\source\repos\Miller_BMIApp\Miller_BMIApp\bin\Debug\Miller_BMIApp.exe.config
+C:\Users\nmiller\source\repos\Miller_BMIApp\Miller_BMIApp\bin\Debug\Miller_BMIApp.exe
+C:\Users\nmiller\source\repos\Miller_BMIApp\Miller_BMIApp\bin\Debug\Miller_BMIApp.pdb
+C:\Users\nmiller\source\repos\Miller_BMIApp\Miller_BMIApp\obj\Debug\Miller_BMIApp.csproj.AssemblyReference.cache
+C:\Users\nmiller\source\repos\Miller_BMIApp\Miller_BMIApp\obj\Debug\Miller_BMIApp.csproj.CoreCompileInputs.cache
+C:\Users\nmiller\source\repos\Miller_BMIApp\Miller_BMIApp\obj\Debug\Miller_BMIApp.exe
+C:\Users\nmiller\source\repos\Miller_BMIApp\Miller_BMIApp\obj\Debug\Miller_BMIApp.pdb

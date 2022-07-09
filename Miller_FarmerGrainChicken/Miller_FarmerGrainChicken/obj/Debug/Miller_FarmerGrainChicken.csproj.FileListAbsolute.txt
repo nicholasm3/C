@@ -1,0 +1,7 @@
+C:\Users\nmiller\source\repos\Miller_FarmerGrainChicken\Miller_FarmerGrainChicken\obj\Debug\Miller_FarmerGrainChicken.csproj.AssemblyReference.cache
+C:\Users\nmiller\source\repos\Miller_FarmerGrainChicken\Miller_FarmerGrainChicken\obj\Debug\Miller_FarmerGrainChicken.csproj.CoreCompileInputs.cache
+C:\Users\nmiller\source\repos\Miller_FarmerGrainChicken\Miller_FarmerGrainChicken\bin\Debug\Miller_FarmerGrainChicken.exe.config
+C:\Users\nmiller\source\repos\Miller_FarmerGrainChicken\Miller_FarmerGrainChicken\bin\Debug\Miller_FarmerGrainChicken.exe
+C:\Users\nmiller\source\repos\Miller_FarmerGrainChicken\Miller_FarmerGrainChicken\bin\Debug\Miller_FarmerGrainChicken.pdb
+C:\Users\nmiller\source\repos\Miller_FarmerGrainChicken\Miller_FarmerGrainChicken\obj\Debug\Miller_FarmerGrainChicken.exe
+C:\Users\nmiller\source\repos\Miller_FarmerGrainChicken\Miller_FarmerGrainChicken\obj\Debug\Miller_FarmerGrainChicken.pdb

@@ -1,0 +1,7 @@
+C:\Users\nmiller\source\repos\Miller_EmployeePayroll\Miller_EmployeePayroll\bin\Debug\Miller_EmployeePayroll.exe.config
+C:\Users\nmiller\source\repos\Miller_EmployeePayroll\Miller_EmployeePayroll\bin\Debug\Miller_EmployeePayroll.exe
+C:\Users\nmiller\source\repos\Miller_EmployeePayroll\Miller_EmployeePayroll\bin\Debug\Miller_EmployeePayroll.pdb
+C:\Users\nmiller\source\repos\Miller_EmployeePayroll\Miller_EmployeePayroll\obj\Debug\Miller_EmployeePayroll.csproj.AssemblyReference.cache
+C:\Users\nmiller\source\repos\Miller_EmployeePayroll\Miller_EmployeePayroll\obj\Debug\Miller_EmployeePayroll.csproj.CoreCompileInputs.cache
+C:\Users\nmiller\source\repos\Miller_EmployeePayroll\Miller_EmployeePayroll\obj\Debug\Miller_EmployeePayroll.exe
+C:\Users\nmiller\source\repos\Miller_EmployeePayroll\Miller_EmployeePayroll\obj\Debug\Miller_EmployeePayroll.pdb
